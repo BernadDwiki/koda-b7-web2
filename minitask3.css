@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    height: 200vh
+}
+
+body{
+    height: 200vh
+}
+
+.navBar{
+    background-color: burlywood;
+    position: sticky;
+    top: 0px;
+    padding: 20px;
+}
+
+.linkedin{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.kontenNav{
+    padding: 10px;
+}
+
+.kontenNav a {
+    margin-right: 20px;
+}
+
+.navigasi{
+    margin: 10px;
+}
